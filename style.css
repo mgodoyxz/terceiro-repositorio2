@@ -1,0 +1,52 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #ffe6f0;
+color: #4a004d;
+margin: 0;
+padding: 20px;
+}
+
+.conteudo {
+max-width: 600px;
+margin: auto;
+background-color: #fff0f6;
+padding: 20px;
+border-radius: 12px;
+box-shadow: 0 0 10px #f9c;
+}
+
+h2, h3, h4 {
+color: #cc007a;
+}
+
+input[type="text"] {
+width: 100%;
+padding: 10px;
+border: 2px solid #cc007a;
+border-radius: 6px;
+margin-bottom: 20px;
+}
+
+button {
+background-color: #ff66b2;
+border: none;
+color: white;
+padding: 8px 16px;
+margin: 4px;
+border-radius: 6px;
+cursor: pointer;
+}
+
+button:hover {
+background-color: #e60073;
+}
+
+.parametro-senha-checkbox label {
+margin-left: 8px;
+}
+
+.botao-gerar {
+width: 100%;
+margin-top: 20px;
+font-size: 16px;
+}
